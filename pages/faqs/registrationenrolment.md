@@ -30,3 +30,4 @@ allowSearch: true
 **How to check organization or user upload status**
 
 {% ingredient /faqs/regenrol_statuscheck %}{% endingredient %}
+
