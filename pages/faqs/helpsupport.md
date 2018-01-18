@@ -11,5 +11,5 @@ allowSearch: true
 
 
 **How do you get answers to problems that you face on the platform?**
-
+Email is wrong.
 {% ingredient /faqs/help&sprt %}{% endingredient %}
