@@ -92,6 +92,7 @@ To bulk upload content,
 	
     *Before sharing the .zip file, check that every author, or content creator is a registered user on the platform. To register on the platform, share your details at content.ntp@centralsquarefoundation.org. All content that is  uploaded will be added with  the creator’s credentials*
 
+
 10. On receiving the .zip file, the Content PMU will review it before it is uploaded 
 11. The status of all  content uploaded in bulk  will  be  ‘Draft’
 12. The system sends an email alert to the organization’s designated reviewers 
