@@ -25,7 +25,7 @@ allowSearch: true
 
 {% ingredient /faqs/cont_fmt_upld_videocont %}{% endingredient %}
 
-**Does the platform support direct viewing of YouTube content?**
+**Does the platform support offline viewing of YouTube content?**
 
 {% ingredient /faqs/cont_fmt_view_youtube %}{% endingredient %}
 
