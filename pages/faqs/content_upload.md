@@ -52,7 +52,7 @@ To access workspace,
 	- Select Audience from the drop-down list available. You can select among two types of audiences:
 		
         a. Learner
-		      b. Instructor
+	b. Instructor
 	
  - Specify the Resource Type from the drop-down list provided on the page. 
 	- From the Concept field, select any concept(s) from the list displayed
@@ -70,9 +70,10 @@ Using the Bulk upload  method  you can add multiple content files simultaneously
 
 To bulk upload content,
 
-1. Send a mail to content.ntp@centralsquarefound.org, with the subject as  request to bulk upload 
+1. Send a mail to content.ntp@centralsquarefoundation.org, with the subject as  request to bulk upload 
 2. Supported file formats:
-	- Text (.pdf)
+    
+    - Text (.pdf)
     - Video (.mp4, .webm, YouTube URLs)
     - HTML 
     - ECML (created using the inbuilt content editor)
@@ -82,8 +83,8 @@ To bulk upload content,
 4. The team will respond with  a form (excel file), seeking basic information on the nature of the content
 5. Reply to the mail after filling in the required details, such as file name, description, file type, subject, class 
 6. This information will be used as metadata for each file. Metadata is important to make content searchable and usable by platform members'.
-7. Compress  all the content files into one .zip file. The size of the zip file should not exceed <xxx>  
-8. Upload the .zip file on Google drive and share the link with or email the zipped folder to content.ntp@centralsquarefound.org
+7. Compress  all the content files into one .zip file. The size of the zip file should not exceed 25MB  
+8. Upload the .zip file on Google drive and share the link with or email the zipped folder to content.ntp@centralsquarefoundation.org
 9. Ensure the following if the content is URL based:
 	- The destination website uses HyperText Transfer Protocol Secure (https) and not  HyperText Transfer Protocol (http). 
 	- The destination website is enabled for cross origin resource sharing 
