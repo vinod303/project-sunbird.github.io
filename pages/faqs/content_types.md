@@ -10,6 +10,6 @@ allowSearch: true
 ---
 
 
-**What is the difference between a course, content and a Book?**
+**What is the difference between a Course, Content and a Book?**
 
 {% ingredient /faqs/cont_type_define_course_contbook %}{% endingredient %}
