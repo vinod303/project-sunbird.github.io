@@ -21,7 +21,7 @@ allowSearch: true
 
 {% ingredient /faqs/cont_fmt_filesiz_sprt %}{% endingredient %}
 
-**Do you need to upload only original video content to the platform?**
+**Can I also upload video created by others?**
 
 {% ingredient /faqs/cont_fmt_upld_videocont %}{% endingredient %}
 
