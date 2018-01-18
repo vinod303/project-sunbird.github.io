@@ -76,3 +76,4 @@ allowSearch: true
 **What is the need for multiple frameworks and not a unified standard framework?**
 
 {% ingredient /faqs/framework_stndrd_ %}{% endingredient %}
+
